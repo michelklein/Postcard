@@ -13,6 +13,8 @@
 		D09AB0281A33016900820FF7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D09AB0271A33016900820FF7 /* Images.xcassets */; };
 		D09AB02B1A33016900820FF7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D09AB0291A33016900820FF7 /* LaunchScreen.xib */; };
 		D09AB0371A33016900820FF7 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09AB0361A33016900820FF7 /* PostcardTests.swift */; };
+		D09AB0411A33087B00820FF7 /* Spain_Sagrada_Familia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D09AB0401A33087B00820FF7 /* Spain_Sagrada_Familia.jpg */; };
+		D09AB0431A330B7100820FF7 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D09AB0421A330B7100820FF7 /* Albert_Einstein_1979_USSR_Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		D09AB0301A33016900820FF7 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D09AB0351A33016900820FF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D09AB0361A33016900820FF7 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		D09AB0401A33087B00820FF7 /* Spain_Sagrada_Familia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Spain_Sagrada_Familia.jpg; sourceTree = "<group>"; };
+		D09AB0421A330B7100820FF7 /* Albert_Einstein_1979_USSR_Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Albert_Einstein_1979_USSR_Stamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		D09AB01E1A33016900820FF7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D09AB0421A330B7100820FF7 /* Albert_Einstein_1979_USSR_Stamp.jpg */,
+				D09AB0401A33087B00820FF7 /* Spain_Sagrada_Familia.jpg */,
 				D09AB01F1A33016900820FF7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				D09AB0261A33016900820FF7 /* Main.storyboard in Resources */,
 				D09AB02B1A33016900820FF7 /* LaunchScreen.xib in Resources */,
+				D09AB0431A330B7100820FF7 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */,
 				D09AB0281A33016900820FF7 /* Images.xcassets in Resources */,
+				D09AB0411A33087B00820FF7 /* Spain_Sagrada_Familia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
